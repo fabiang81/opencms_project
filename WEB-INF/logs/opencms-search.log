@@ -1,0 +1,2 @@
+17 Nov 2016 14:29:17,171 ERROR [.opencms.search.CmsSearchIndex: 585] The project "Offline" configured for search index "Solr Offline" does not exist.
+18 Nov 2016 14:39:20,470  WARN [g.opencms.search.CmsSearchUtil:  94] No reference path provided for gallery search.
